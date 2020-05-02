@@ -35,17 +35,20 @@
 
             <Button
                 android:layout_width="wrap_content"
-                android:layout_height="match_parent"/>
+                android:layout_height="match_parent"
+                android:text="7"/>
             <Button
                 android:layout_width="wrap_content"
-                android:layout_height="match_parent"/>
+                android:layout_height="match_parent"
+                android:text="8"/>
             <Button
                 android:layout_width="wrap_content"
-                android:layout_height="match_parent"/>
+                android:layout_height="match_parent"
+                android:text="9"/>
             <Button
                 android:layout_width="wrap_content"
-                android:layout_height="match_parent"/>
-
+                android:layout_height="match_parent"
+                android:text="/"/>
         </LinearLayout>
 
         <!--Кнопки 4,5,6,* -->
@@ -57,16 +60,20 @@
 
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="4"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="5"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="6"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="*"/>
         </LinearLayout>
 
     <!--Кнопки 1,2,3,- -->
@@ -78,16 +85,20 @@
 
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="1"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="2"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="3"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="-"/>
         </LinearLayout>
 
     <!--Кнопки 0,.,%,+ -->
@@ -99,18 +110,21 @@
 
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="0"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="."/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="%"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="+"/>
         </LinearLayout>
-
 
     <!--Кнопки del, = -->
         <LinearLayout
@@ -121,10 +135,12 @@
 
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="Del"/>
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:text="="/>
         </LinearLayout>>
 
 
